@@ -1,0 +1,6 @@
+config.py
+__pycache__/
+templates/
+**/migrations/
+.idea/
+db.sqlite3
